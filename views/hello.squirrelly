@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Success!</title>
+    </head>
+    <body>
+        <h1>You logged in!</h1>
+        <p><strong>Name:</strong> {{it.name}}</p>
+        <p><strong>Email:</strong> {{it.email}}</p>
+        <p><strong>User ID:</strong> {{it.userId}}</p>
+        <p><a href='/'>Home</a></p>
+    </body>
+</html>
