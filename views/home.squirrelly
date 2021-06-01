@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Login with Amazon Demo</title>
+    </head>
+    <body>
+        <h1>Welcome! Please log in with one of the following:</h1>
+        <p>
+            <a href="/login/amazon">Amazon</a>
+        </p>
+        <p>
+            <a href="/login/google">Google</a>
+        </p>
+        <p>
+            <a href="/login/twitter">Twitter</a>
+        </p>
+    </body>
+</html>
